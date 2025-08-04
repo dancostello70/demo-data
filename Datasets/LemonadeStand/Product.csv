@@ -1,0 +1,8 @@
+﻿ProductID,Product,Size,ListPrice,Subcategory,Category,Cost
+1,Lemonade,,1,Beverages,Consumable Goods,0.35
+2,Hot Chocolate,,1.25,Beverages,Consumable Goods,0.25
+3,Chocolate Chip Cookie,,1.5,Baked Goods,Consumable Goods,0.45
+4,Carrot Sticks,,0.25,Fruits & Vegetables,Consumable Goods,0.1
+5,T-Shirt (S),S,10,Clothing,Durable Goods,8
+6,T-Shirt (M),M,10,Clothing,Durable Goods,8
+7,T-Shirt (L),L,10,Clothing,Durable Goods,8
